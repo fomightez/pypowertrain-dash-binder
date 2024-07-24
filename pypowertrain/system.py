@@ -266,8 +266,9 @@ def system_dash(
 	]
 	plot_types = ['Geometry', 'Graph']
 
-	app = dash.Dash(external_stylesheets=[dbc.themes.BOOTSTRAP])
-
+	import os
+	prefix = os.environ['JUPYTERHUB_SERVICE_PREFIX'] + 'proxy/8050/'
+	app = dash.Dash(external_stylesheets=[dbc.themes.BOOTSTRAP],requests_pathname_prefix=prefix)
 	thermal_table = dash_table.DataTable(
 		id='table-thermal',
 		columns=([
