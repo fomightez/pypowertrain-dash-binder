@@ -1,8 +1,10 @@
 
+This fork was just to try and fix Dash on MyBinder. You want the original[EelcoHoogendoorn/pypowertrain](https://github.com/EelcoHoogendoorn/pypowertrain)!
+
 pypowertrain
 =========
 
-[Get started with a runnnable notebook!](https://mybinder.org/v2/gh/fomightez/pypowertrain/HEAD?labpath=getting_started.ipynb)
+[Get started with a runnnable notebook!](https://mybinder.org/v2/gh/fomightez/pypowertrain-dash-binder/HEAD?labpath=getting_started.ipynb)
 
 Summary
 -------
