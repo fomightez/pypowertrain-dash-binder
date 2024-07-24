@@ -2,7 +2,7 @@
 pypowertrain
 =========
 
-[Get started with a runnnable notebook!](https://mybinder.org/v2/gh/EelcoHoogendoorn/pypowertrain/HEAD?labpath=getting_started.ipynb)
+[Get started with a runnnable notebook!](https://mybinder.org/v2/gh/fomightez/pypowertrain/HEAD?labpath=getting_started.ipynb)
 
 Summary
 -------
